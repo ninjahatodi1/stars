@@ -1,0 +1,32 @@
+* {
+   margin:0;
+   padding:0;
+}
+
+#particles-js{
+ background-color: black;
+   height: 100vh;
+   position: relative;
+}
+
+h1{
+
+   text-align: center;
+}
+
+.showcase{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    text-align: center;
+    align-content: center;
+    background-color: #333 rgba(0,0,0,0.3);
+    height: 100vh;
+    color: white;
+    font-size: 1rem;
+    font-family: 'roboto';
+
+
+
+}
